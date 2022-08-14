@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+file:/Users/twobitjoe/Desktop/Udemy/Java%20Programming%20Masterclass%20covering%20Java%2011%20&%20Java%2017/Section%203/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
+meta_index

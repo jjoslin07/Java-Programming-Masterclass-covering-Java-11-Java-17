@@ -10,7 +10,7 @@ public class Main {
 //        calculateScore();
 
         calcFeetAndInchesToCentimeters(12, 12);
-        calcFeetAndInchesToCentimeters(144);
+        calcFeetAndInchesToCentimeters(156);
     }
 
     public static int calculateScore(String playerName, int score) {
